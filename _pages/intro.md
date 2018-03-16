@@ -4,7 +4,7 @@ id: 1
 title: Introdução
 layout: page
 #categories: topics
-excerpt: 2018
+excerpt: Coimbra, 28 Março 2018
 permalink: intro
 background-image: ponte d luis.JPG
 image: ponte d luis.JPG
