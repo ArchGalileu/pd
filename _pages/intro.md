@@ -29,4 +29,4 @@ A musica clássica é um universo a explorar, é como um Amor inexplorado, por t
 > "Nunca duvides da capacidade das pessoas que estás a liderar para alcançar o que quer que seja que estás a sonhar" - *Benjamin Zander*
 
 Com os melhores cumprimentos,  
-Radu Ungureanu
+Enredo de Sons, Associação 
